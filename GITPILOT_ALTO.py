@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Git Automatizador Pro v3.2 - TOTALMENTE CORRIGIDO
-Correção dos problemas de remote origin e push
+AUTOR: JOÃO VITOR SANTANA
 """
 
 import subprocess
